@@ -33,9 +33,6 @@ public class Tree implements TreeInterface{
     }
 
 
-
-
-
     @Override
     public boolean isEmpty() {
         if(root == null){
